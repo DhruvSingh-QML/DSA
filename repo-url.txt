@@ -3,6 +3,5 @@ https://github.com/DhruvSingh-QML/DSA.git
 
 git add . 
 git commit -m "..."
-git remote add origin https://github.com/DhruvSingh-QML/DSA.git
 git push origin -u main
 
